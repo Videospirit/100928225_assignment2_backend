@@ -1,0 +1,12 @@
+{
+  "name": "100928225_assignment2_backend",
+  "version": "1.0.0",
+  "description": "COMP 3123 Full Stack Development Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremy Buchanan",
+  "license": "ISC"
+}
